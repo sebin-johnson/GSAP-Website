@@ -140,6 +140,7 @@ nav i{
     font-size: 1vw;
     color: #fff;
     width: 80%;
+    text-align: justify;
 }
 
 .product{
@@ -153,5 +154,3 @@ nav i{
     width: 100%;
     height: 100%;
 }
-
-
